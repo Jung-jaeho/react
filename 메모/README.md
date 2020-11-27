@@ -89,6 +89,7 @@ JSX안에 주석을 사용할 때는 /* ~ */와 같은 형식으로 주석을 �
    - JSX내부에 {this.props.propsName}
    - 컴포넌트를 사용할 때, <> 괄호안에 -> propsName="value"로 됩니다.
    - this.props.children 은 기본적으로 갖고있는 props로서, <Cpnt>여기에 있는 값이 들어간다.</Cpnt>
+   - 
 
 ![main_img](./img/main_img4.png)
 
